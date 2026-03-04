@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Kevin J Donaldson"
+title                    : "Kevin J. Donaldson, PhD"
 title_separator          : "-"
 name                     : &name "Kevin Joseph Donaldson"
 description              : &description "Kevin Donaldson's academic portfolio"   
@@ -24,9 +24,9 @@ repository               : KJDonaldson/kjdonaldson.github.io
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Kevin J Donaldson"
+  name             : "Kevin J. Donaldson, PhD"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Short biography"
   location         : "USA, Earth"
   employer         : # Employer
   uri              : # URL
