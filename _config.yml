@@ -23,7 +23,7 @@ repository               : KJDonaldson/kjdonaldson.github.io
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "KJDProfile.png"
+  avatar           : "/images/KJDProfile.png"
   name             : "Kevin J. Donaldson, PhD"
   pronouns         : # example: "she/her"  
   bio              : "Short biography"
