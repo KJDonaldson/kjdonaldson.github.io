@@ -262,7 +262,7 @@ Georgia State University — 2023
 
 Research to Prevent Blindness Departmental Research Award  
 Emory University Department of Ophthalmology — 2022
-Identifying the spatial distribution of transcriptionally defined subpopulations of Retinal Pigment Epithelium cells and their differential disease susceptibility
+Project: Identifying the spatial distribution of transcriptionally defined subpopulations of Retinal Pigment Epithelium cells and their differential disease susceptibility
 
 Brains and Behavior Fellowship (Competitive Graduate Fellowship) 
 Georgia State University — 2022–2025
@@ -278,7 +278,7 @@ ARVO Foundation for Eye Research — 2018
 
 Research to Prevent Blindness Departmental Research Award  
 Emory University Department of Ophthalmology — 2017
-  Project: Non-invasive longitudinal tracking of cell-mediated inflammatory response dynamics in the living mouse
+Project: Non-invasive longitudinal tracking of cell-mediated inflammatory response dynamics in the living mouse
 
 Research to Prevent Blindness Departmental Research Award  
 Emory University Department of Ophthalmology — 2016
