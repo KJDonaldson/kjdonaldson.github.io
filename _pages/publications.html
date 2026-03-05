@@ -1,36 +1,68 @@
 ---
-layout: archive
+layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+## Peer-Reviewed Publications
 
-{% include base_path %}
+**Donaldson KJ**, Chrenek MA, Boatright JH, Nickerson JM  
+**High-Resolution Imaging and Interpretation of Three-Dimensional RPE Sheet Structure**  
+Biomolecules (2025)  
+https://doi.org/10.3390/biom15081084
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+Girardot P, Zhang X, Zhang N, **Donaldson KJ**, Chrenek MA, Sellers JT, Feola AJ, Nickerson JM, Jain N, Boatright JH  
+**Pentosan Polysulfate Sodium Causes Diminished Function and Subtle Morphological Changes in Retina and RPE of Mice**  
+Investigative Ophthalmology & Vision Science (2024)  
+https://doi.org/10.1167/iovs.65.7.3112
 
+Kirchner MK, Althammer F, **Donaldson KJ**, Cox DN, Stern JE  
+**Adaptive neuronal responses to systemic homeostatic challenge**  
+iScience (2023)  
+https://doi.org/10.1016/j.isci.2023.107797
 
+Himmel NJ*, Sakurai A*, **Donaldson KJ***, Cox DN  
+**Protocols for measuring cold-evoked neural activity and cold tolerance in Drosophila larvae following fictive cold acclimation**  
+STAR Protocols (2022)  
+https://doi.org/10.1016/j.xpro.2022.101510 :contentReference[oaicite:0]{index=0}
 
+Ferdous S, Summers VR, Liao K, **Donaldson KJ**, Gefke IF, Kim YK, Shelton D, Sellers JT, Markand S, Boatright JH, Nickerson JM  
+**Age-related retinal changes in wild-type mice**  
+Investigative Ophthalmology & Vision Science (2021)  
+https://doi.org/10.1167/iovs.62.8.2453
+
+Himmel NJ, Letcher JM, Sakurai A, Benson MN, Gray TR, **Donaldson KJ**, Cox DN  
+**Identification of a neural basis for cold acclimation in Drosophila larvae**  
+iScience (2021)  
+https://doi.org/10.1016/j.isci.2021.102724
+
+Kim YK, Summers VR, **Donaldson KJ**, Ferdous S, Shelton D, Gefke IF, Chrenek MA, Jiang Y, Kong J, Boatright JH, Nickerson JM  
+**Morphometric analysis of retinal pigment epithelial cells from C57BL/6J mice during aging**  
+Investigative Ophthalmology & Vision Science (2021)  
+https://doi.org/10.1167/iovs.62.8.3077
+
+**Donaldson KJ**, Zhang Q, Chrenek MA, Sellers JT, Boatright JH, Nickerson JM  
+**Analysis of damage and wound healing in the retinal pigmented epithelium**  
+Advances in Experimental Medicine and Biology (2019)  
+https://doi.org/10.1007/978-3-030-XXXXX
+
+Zhang Q, Chrenek MA, **Donaldson KJ**, Sellers JT, Boatright JH, Nickerson JM  
+**Comparison of histologic findings in age-related macular degeneration with RPE flatmount images**  
+Molecular Vision (2019)  
+http://www.molvis.org/molvis/v25/
+
+Wang J, Persons V, Summers VR, **Donaldson KJ**, Boatright JH, Nickerson JM  
+**Differential exon expression in retinal genes regulated by a trans locus**  
+Scientific Reports (2018)  
+https://doi.org/10.1038/s41598-018-XXXXX
+
+Winkowski D, Nagode D, **Donaldson KJ**, Yin P, Shamma SA, Fritz JB  
+**Orbitofrontal cortex neurons respond to sound and activate primary auditory cortex neurons**  
+Cerebral Cortex (2018)  
+https://doi.org/10.1093/cercor/bhw409
+
+Markand S, Persons V, **Donaldson KJ**, Boatright JH, Nickerson JM  
+**IRBP deficiency permits precocious ocular development and myopia**  
+Molecular Vision (2016)  
+http://www.molvis.org/molvis/v22/

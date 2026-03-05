@@ -261,7 +261,7 @@ Kenneth W. and Georganne F. Honeycutt Fellowship (Competitive Graduate Fellowshi
 Georgia State University — 2023
 
 Research to Prevent Blindness Departmental Research Award  
-Emory University Department of Ophthalmology — 2022__
+Emory University Department of Ophthalmology — 2022  
 Project: Identifying the spatial distribution of transcriptionally defined subpopulations of Retinal Pigment Epithelium cells and their differential disease susceptibility
 
 Brains and Behavior Fellowship (Competitive Graduate Fellowship) 
@@ -277,11 +277,11 @@ Knights Templar Eye Foundation Travel Grant
 ARVO Foundation for Eye Research — 2018
 
 Research to Prevent Blindness Departmental Research Award  
-Emory University Department of Ophthalmology — 2017__
+Emory University Department of Ophthalmology — 2017  
 Project: Non-invasive longitudinal tracking of cell-mediated inflammatory response dynamics in the living mouse
 
 Research to Prevent Blindness Departmental Research Award  
-Emory University Department of Ophthalmology — 2016__
+Emory University Department of Ophthalmology — 2016  
 Project: Development of murine pupilometer device to investigate abnormal pupillary light responses in the IRBP knock-out mouse
 
 NSF-IGERT Graduate Research Fellowship  
