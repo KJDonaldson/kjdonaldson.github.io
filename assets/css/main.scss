@@ -80,3 +80,9 @@ html[data-theme="dark"] body {
   opacity: 0.7;
   margin-right: 4px;
 }
+
+/* prevent underline under icon */
+
+a .doi-icon {
+  text-decoration: none;
+}
