@@ -233,5 +233,3 @@ Advanced Sequencing Technologies and Bioinformatics (2020)
 
 Georgia State University  
 Summer Data Jam: Data Analysis and Visualization (2022)
-
-DEI and Cultural Competency in Mentoring Workshop (2021)
