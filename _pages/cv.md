@@ -14,16 +14,16 @@ author_profile: true
 
 ## Education
 
-PhD Neuroscience  
+PhD - Neuroscience  
 Georgia State University — 2025
 
-MS Neuroscience  
+MS - Neuroscience  
 Georgia State University — 2021
 
-MS Neuroscience and Cognitive Science  
+MS - Neuroscience and Cognitive Science  
 University of Maryland, College Park — 2015
 
-BS Animal Sciences  
+BS - Animal Sciences  
 University of Maryland, College Park — 2002
 
 ---
