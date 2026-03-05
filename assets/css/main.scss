@@ -42,9 +42,31 @@
     "vendor/font-awesome/brands"
 ;
 
+/* ------------------------------------------------ */
 /* Custom dark mode overrides */
+/* ------------------------------------------------ */
 
 html[data-theme="dark"] {
   --global-bg-color: #070b1a;
   --global-code-bg-color: #0d1326;
+}
+
+/* ------------------------------------------------ */
+/* Prevent mobile browsers from forcing pure black */
+/* ------------------------------------------------ */
+
+html {
+  color-scheme: light dark;
+}
+
+html[data-theme="dark"] body {
+  background-color: #070b1a;
+}
+
+/* Reinforce dark background for mobile OS dark mode */
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #070b1a;
+  }
 }
