@@ -26,11 +26,11 @@ author:
   avatar           : "KJDProfile.jpg"
   name             : "Kevin J. Donaldson, PhD"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography"
-  location         : "USA, Earth"
+  bio              : "Neuroscientist and Data Analyst"
+  location         : # "USA, Earth"
   employer         : "University of Maryland, College Park"
-  uri              : # URL
-  email            : "kdonaldson7@student.gsu.edu" 
+  uri              : "https://kjdonaldson.github.io/"
+  email            : "kdonald@umd.edu" 
 
   # Academic websites
   academia         : # URL
