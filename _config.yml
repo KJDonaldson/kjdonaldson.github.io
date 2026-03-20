@@ -29,7 +29,7 @@ author:
   bio              : "Neuroscientist and Data Analyst"
   location         : # "USA, Earth"
   employer         : "University of Maryland, College Park"
-  uri              : "https://kjdonaldson.github.io/"
+  uri              : #"https://kjdonaldson.github.io/"
   email            : "kdonald@umd.edu" 
 
   # Academic websites
